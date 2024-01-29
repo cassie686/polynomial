@@ -1,0 +1,1 @@
+For 10 heads in 10 flips, the probability is roughly 0.1%, which is quite low. While not impossible, the probability is well below the common significance levels, thus giving strong evidence against the coin's fairness.
